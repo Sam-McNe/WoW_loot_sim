@@ -1,0 +1,4 @@
+data/loot.db
+__pycache__/
+*.pyc
+.venv/
